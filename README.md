@@ -4,6 +4,8 @@ Ein lokaler KI-Sprachübersetzer auf Basis des Raspberry Pi 5.
 
 Dieses Projekt verwandelt einen Raspberry Pi 5 in einen eigenständigen Sprachübersetzer. Gesprochene Sprache wird aufgenommen, lokal erkannt, durch eine KI übersetzt und anschließend wieder ausgegeben.
 
+[Raspberry Pi Offline Translator auf GitHub](https://github.com/prilchen/raspberry-pi-offline-translator)
+
 **Das Besondere: Die gesamte Verarbeitung erfolgt lokal auf dem Raspberry Pi. Eine Cloud-Verbindung oder ein kostenpflichtiger Online-Dienst ist nicht erforderlich.**
 
 ## 🧠 Verwendete Software
