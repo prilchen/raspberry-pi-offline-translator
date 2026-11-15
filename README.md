@@ -36,8 +36,6 @@ Im Beispielprojekt sind folgende Sprachen eingerichtet:
 
 - Deutsch
 - Englisch
-- Spanisch
-- Französisch
 
 Weitere Sprachen können durch zusätzliche Sprachmodelle ergänzt werden.
 
