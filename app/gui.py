@@ -23,9 +23,10 @@ import tkinter as tk
 from pathlib import Path
 
 
-BASE_DIR = Path.home() / "translator"
-PYTHON = BASE_DIR / "venv" / "bin" / "python"
-TRANSLATOR_SCRIPT = BASE_DIR / "app" / "translator.py"
+BASE_DIR="$HOME/translator"
+PYTHON="$BASE_DIR/venv/bin/python"
+GUI="$BASE_DIR/app/gui.py"
+TRANSLATOR_SCRIPT = "$BASE_DIR/app/translator.py"
 
 AUFNAHME_SEKUNDEN = 7
 
