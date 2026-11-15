@@ -1,3 +1,5 @@
-echo '#!/bin/bash' > ~/translator/gui.sh
-echo 'python3 ~/translator/gui.py' >> ~/translator/gui.sh
-chmod +x ~/translator/gui.sh
+#!/bin/bash
+
+BASE_DIR="$HOME/translator"
+cd "$BASE_DIR"
+exec "$BASE_DIR/venv/bin/python3" "$BASE_DIR/app/gui.py"
